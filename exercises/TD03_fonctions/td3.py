@@ -1,5 +1,4 @@
 #temps[0] : jours, temps[1]: heures, temps[2]: minutes, temps[3]: secondes
-#temps[0] : jours, temps[1]: heures, temps[2]: minutes, temps[3]: secondes
 
 def tempsEnSeconde(temps):
     """ Renvoie la valeur en seconde de temps donné comme jour, heure, minute, seconde."""
