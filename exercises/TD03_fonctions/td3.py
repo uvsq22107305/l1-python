@@ -103,3 +103,5 @@ proportion = 0.2
 
 
 print(afficheTemps(proportionTemps(temps,proportion)))
+
+
